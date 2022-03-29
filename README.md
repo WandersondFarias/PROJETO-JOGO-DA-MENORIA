@@ -75,7 +75,6 @@ Em fase de testes. 🚧
 
 <h3 id="autor">✒️ Autor</h3>
 
-<a href="https://github.com/brseghese"> <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80193824?v=4" width="100px;" alt="Personal photo"/> </a>
 
 [Clique aqui](https://github.com/wandersondefariasprogramador) )🔗 e acesse meu portfólio! 💼 (em construção...) <br>
 Desenvolvido com por **WANDERSON DE FARIAS** © Alguns direitos reservados.
