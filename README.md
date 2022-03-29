@@ -32,7 +32,7 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 ◽ <a href="https://github.com/wandersondefariasprogramador-jogo-da-memoria/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
-       $ git clone https://github.com/brseghese/progbr-jogo-da-memoria.git
+       $ git clone https://github.com/wandersondefariasprogramador-jogo-da-memoria.git
 
 <h3 id="instalacao">🛠️ Instalação</h3>
 
