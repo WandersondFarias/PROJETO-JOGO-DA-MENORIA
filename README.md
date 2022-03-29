@@ -76,7 +76,7 @@ Em fase de testes. 🚧
 <h3 id="autor">✒️ Autor</h3>
 
 
-[Clique aqui](https://github.com/wandersondefariasprogramador) )🔗 e acesse meu portfólio! 💼 (em construção...) <br>
+[Clique aqui](https://github.com/wandersondefariasprogramador)  💼 (em construção...) <br>
 Desenvolvido com por **WANDERSON DE FARIAS** © Alguns direitos reservados.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-farias-ba9a90215/) [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wandersondefariasprogramador) 
