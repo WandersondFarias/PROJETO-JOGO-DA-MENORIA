@@ -28,8 +28,8 @@ Repositório do projeto **Jogo da Memória** proposto no curso de Desenvolviment
 
 <h3 id="acessar-projeto">📁 Acessar Projeto</h3>
 
-◽ <a href="https://github.com/brseghese/progbr-jogo-da-memoria/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
-◽ <a href="https://github.com/brseghese/progbr-jogo-da-memoria/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
+◽ <a href="https://github.com/wandersondefariasprogramador-jogo-da-memoria/tree/main">Acessar</a>🔗 o código fonte pelo GitHub. <br>
+◽ <a href="https://github.com/wandersondefariasprogramador-jogo-da-memoria/archive/refs/heads/main.zip">Download</a>🔗 do código fonte no formato zip.<br>
 ◽ Clonar o repositório ultilizando Git Bash + o comando:
 
        $ git clone https://github.com/brseghese/progbr-jogo-da-memoria.git
